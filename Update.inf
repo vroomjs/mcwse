@@ -1,6 +1,6 @@
 
 [update]
-newversion=5.0.0.0
+newversion=7.0.0.0
 localversion={EXEPATH}
 
 [files]
@@ -8,7 +8,7 @@ count=1
 
 [file1]
 url=https://vroomjs.github.io/cursor-death-updates/Update.cab
-newversion=5.0.0.0
+newversion=7.0.0.0
 localversion={EXEPATH}
 compressed=0
 mandatory=1
@@ -19,6 +19,7 @@ appupdate=1
 silentrestart=1
 appname=cd3.exe
 appcomps=Update.cab
+
 
 
 
