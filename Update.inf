@@ -1,6 +1,6 @@
 
 [update]
-newversion=1.0.0.0
+newversion=3.0.0.0
 localversion={EXEPATH}
 
 [files]
@@ -19,6 +19,7 @@ appupdate=1
 silentrestart=1
 appname=cd3.exe
 appcomps=Update.cab
+
 
 
 
