@@ -1,6 +1,6 @@
 
 [update]
-newversion=1.0.0.0
+newversion=0.0.0.6
 localversion={EXEPATH}
 
 [files]
@@ -8,7 +8,7 @@ count=1
 
 [file1]
 url=https://vroomjs.github.io/mcwse/Version.cab
-newversion=1.0.0.0
+newversion=0.0.0.6
 localversion={EXEPATH}
 compressed=0
 mandatory=1
@@ -19,3 +19,4 @@ appupdate=1
 silentrestart=1
 appname=MCWSE.exe
 appcomps=Version.cab
+
